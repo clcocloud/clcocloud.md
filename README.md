@@ -4,7 +4,7 @@
 > ```
 > Install and configure anthropic model by following the instructions here: https://github.com/clcocloud/clcocloud.md
 > ```
-> 위 한 줄을 AI 에이전트(Cursor, Claude, Copilot 등)에 붙여넣으면 에이전트가 이 문서를 읽고 자동으로 세팅을 완료합니다.
+> 위 한 줄을 AI 에이전트에 붙여넣으면 에이전트가 이 문서를 읽고 자동으로 세팅을 완료합니다.
 
 ---
 
